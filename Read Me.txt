@@ -1,0 +1,1 @@
+in this code, I tried to get familiar with how to open a csv file and invoke simple functions in numpy and pandas
